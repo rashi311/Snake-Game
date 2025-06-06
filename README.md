@@ -12,10 +12,8 @@ A classic Snake Game built using Python and the Pygame library. The objective is
 
 ## 📸 Screenshots
 
-> *(Add your own screenshots in an `images/` folder and link below)*
-
 <p align="center">
-  <img src="images/snake_game_1.png" width="500"/>
+  <img src="images/screenshot11.png" width="500"/>
 </p>
 
 <p align="center">
@@ -31,7 +29,7 @@ git clone https://github.com/yourusername/snake-game-pygame.git
 cd snake-game-pygame
 ```
 
-2. Install Dependencies
+### 2. Install Dependencies
 Make sure you have Python installed (preferably 3.6 or later).
 Install pygame:
 
@@ -39,7 +37,7 @@ Install pygame:
 pip install pygame
 ```
 
-3. Run the Game
+### 3. Run the Game
 
 ```
 python snake.py
