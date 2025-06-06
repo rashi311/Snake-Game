@@ -13,7 +13,7 @@ A classic Snake Game built using Python and the Pygame library. The objective is
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="images/screenshot11.png" width="500"/>
+  <img src="images/screenshot12.png" width="500"/>
 </p>
 
 
