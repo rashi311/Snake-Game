@@ -16,9 +16,7 @@ A classic Snake Game built using Python and the Pygame library. The objective is
   <img src="images/screenshot11.png" width="500"/>
 </p>
 
-<p align="center">
-  <img src="images/snake_game_2.png" width="500"/>
-</p>
+
 
 ## 🚀 How to Run
 
@@ -42,10 +40,12 @@ pip install pygame
 ```
 python snake.py
 ```
+## 🎮 Controls
 
-🎮 Controls
-Arrow Keys: Move the snake (Up, Down, Left, Right)
-
+- Arrow Up → Move Up  
+- Arrow Down → Move Down  
+- Arrow Left → Move Left  
+- Arrow Right → Move Right
 
 📁 Project Structure
 ```
@@ -59,10 +59,10 @@ snake-game-pygame/
 
 
 🛠️ Built With
-. Python
-. Pygame
+- Python
+- Pygame
 
 
 🙌 Acknowledgments
-Inspired by the classic Nokia Snake game and countless tutorials from the Python and Pygame community.
+- Inspired by the classic Nokia Snake game and countless tutorials from the Python and Pygame community.
 
